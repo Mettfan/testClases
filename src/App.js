@@ -3,21 +3,15 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <span>
+        Yannick
+      </span>
+      <img className = 'perrito' src = 'https://olondriz.com/wp-content/uploads/2020/04/ambar-perrito-1-1024x899.jpg'/>
+      <h1>
+
+      </h1>
+
     </div>
   );
 }
